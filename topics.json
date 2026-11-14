@@ -1,0 +1,111 @@
+[
+  {
+    "title": "The House of Wisdom",
+    "script": "In ninth-century Baghdad, the Abbasid caliphs built the House of Wisdom, a grand center of learning. Scholars there translated Greek, Persian, and Indian texts into Arabic, preserving works that might otherwise have been lost forever. Mathematicians, astronomers, and physicians gathered from across the known world to study and debate. This single institution helped spark what historians call the Islamic Golden Age, a period of scientific and philosophical achievement that later shaped the European Renaissance. The House of Wisdom stood as proof that knowledge has no single homeland, only many keepers.",
+    "settings": [
+      "library",
+      "city",
+      "night"
+    ]
+  },
+  {
+    "title": "The Great Mosque of Cordoba",
+    "script": "In the city of Cordoba, capital of Muslim Spain, the Umayyad rulers built one of the architectural wonders of the medieval world. Its forest of red and white striped arches supported a prayer hall large enough for thousands. Cordoba itself became a center of learning where Muslim, Christian, and Jewish scholars worked side by side, translating texts and advancing mathematics, medicine, and philosophy. For centuries, its libraries held hundreds of thousands of manuscripts, at a time when most of Europe had only a handful. The Great Mosque still stands today, a monument to that golden age of coexistence and scholarship.",
+    "settings": [
+      "city",
+      "library",
+      "night"
+    ]
+  },
+  {
+    "title": "Al-Khwarizmi and Algebra",
+    "script": "In ninth-century Baghdad, the mathematician Muhammad ibn Musa al-Khwarizmi wrote a book that would change mathematics forever. Its title, Al-Jabr, gave us the modern word algebra. He developed systematic methods for solving linear and quadratic equations, building on earlier Indian and Greek ideas. His work was later translated into Latin and used as a standard textbook in European universities for centuries. The word algorithm itself comes from the Latinized form of his name. Few individuals have left as lasting a mark on how the world calculates, builds, and reasons through numbers.",
+    "settings": [
+      "library",
+      "night",
+      "desert"
+    ]
+  },
+  {
+    "title": "Ibn Sina and the Canon of Medicine",
+    "script": "Born near Bukhara in the tenth century, Ibn Sina, known in the West as Avicenna, became one of history's most influential physicians. His encyclopedic work, The Canon of Medicine, organized centuries of medical knowledge into a single systematic text. It covered anatomy, pharmacology, and the importance of testing treatments through observation. Translated into Latin, the Canon remained a standard textbook in European medical schools for over five hundred years. Ibn Sina also wrote extensively on philosophy and logic, bridging science and metaphysics. His methodical approach to medicine still echoes in how doctors are trained today.",
+    "settings": [
+      "library",
+      "city",
+      "mountains"
+    ]
+  },
+  {
+    "title": "Sankore and the Manuscripts of Timbuktu",
+    "script": "In the city of Timbuktu, in what is now Mali, the Sankore mosque and its associated schools became a major center of Islamic scholarship in West Africa. By the sixteenth century, the city was home to thousands of students studying law, astronomy, and mathematics. Private libraries held tens of thousands of manuscripts, written in Arabic and local languages, covering everything from medicine to poetry. Many of these manuscripts survive today, carefully preserved by families for generations. Timbuktu stands as a reminder that the world of Islamic learning stretched far beyond the Middle East, deep into the heart of Africa.",
+    "settings": [
+      "desert",
+      "city",
+      "library"
+    ]
+  },
+  {
+    "title": "Ibn Battuta's Journeys",
+    "script": "In 1325, a young scholar named Ibn Battuta left his home in Tangier to perform the pilgrimage to Mecca. That journey turned into nearly thirty years of travel, covering over seventy thousand miles across North Africa, the Middle East, India, Southeast Asia, and China. He recorded his observations of cities, rulers, and customs in a detailed travelogue known as the Rihla. His account remains one of the richest firsthand descriptions of the medieval world, offering a view of a vast, interconnected network of Islamic trade and scholarship stretching from West Africa to East Asia.",
+    "settings": [
+      "desert",
+      "coast",
+      "mountains",
+      "city"
+    ]
+  },
+  {
+    "title": "The Fall of Constantinople",
+    "script": "In 1453, the young Ottoman sultan Mehmed the Second laid siege to Constantinople, capital of the Byzantine Empire for over a thousand years. His engineers built massive cannons capable of breaching the city's ancient walls, a turning point in military technology. After weeks of siege, the city fell, and Mehmed transformed the great cathedral of Hagia Sophia into a mosque while allowing its Christian mosaics to remain for a time. The conquest reshaped trade routes between Europe and Asia and marked the rise of the Ottoman Empire as a major world power for the next several centuries.",
+    "settings": [
+      "coast",
+      "city",
+      "night"
+    ]
+  },
+  {
+    "title": "Saladin and Jerusalem",
+    "script": "In 1187, the Ayyubid sultan Saladin recaptured Jerusalem after nearly a century of Crusader rule. Unlike the violent conquest the city had suffered decades earlier, Saladin allowed the city's Christian inhabitants to leave peacefully, and many chose to pay a ransom and stay under his protection. His reputation for discipline and mercy impressed even his rivals, and centuries later he was remembered in Europe as a model of chivalry. Saladin's later negotiations with King Richard the Lionheart established a truce that allowed Christian pilgrims safe access to the city, a rare moment of diplomacy amid a long conflict.",
+    "settings": [
+      "desert",
+      "city",
+      "mountains"
+    ]
+  },
+  {
+    "title": "The Paper Revolution",
+    "script": "Papermaking technology traveled from China into the Islamic world in the eighth century, reportedly after the Battle of Talas. Muslim craftsmen refined the process, and paper mills spread rapidly across Baghdad, Damascus, and Cairo. Paper was cheaper and easier to produce than parchment or papyrus, and it fueled an explosion of book production across the Abbasid Caliphate. Libraries grew to unprecedented sizes, and literacy spread beyond royal courts into the merchant class. This quiet technological shift helped make the Islamic Golden Age possible, long before paper reached Europe through Muslim Spain and Sicily centuries later.",
+    "settings": [
+      "city",
+      "library",
+      "desert"
+    ]
+  },
+  {
+    "title": "The Alhambra of Granada",
+    "script": "Perched above the city of Granada, the Alhambra palace complex represents the final flourishing of Muslim rule in Spain under the Nasrid dynasty. Its courtyards, reflecting pools, and intricately carved stucco walls were designed to evoke paradise described in poetry and scripture. Geometric tile work and flowing Arabic calligraphy cover nearly every surface, demonstrating remarkable mathematical precision in design. Completed largely in the thirteenth and fourteenth centuries, the Alhambra survived the end of Muslim rule in 1492 and remains one of the most visited monuments in Europe, a lasting symbol of Andalusian artistry and craftsmanship.",
+    "settings": [
+      "mountains",
+      "city",
+      "night"
+    ]
+  },
+  {
+    "title": "Al-Zahrawi, Father of Surgery",
+    "script": "In tenth-century Cordoba, the physician Al-Zahrawi wrote a thirty-volume medical encyclopedia called Al-Tasrif. One volume, dedicated entirely to surgery, described and illustrated over two hundred surgical instruments, many of which he designed himself. He detailed procedures for treating fractures, dislocations, and complications during childbirth, insisting on careful observation over guesswork. His work was translated into Latin and used in European medical schools for centuries, earning him recognition as one of the fathers of modern surgery. Several instruments he described remain recognizable in operating rooms to this day.",
+    "settings": [
+      "library",
+      "city",
+      "night"
+    ]
+  },
+  {
+    "title": "The Covenant of Umar in Jerusalem",
+    "script": "When the caliph Umar ibn al-Khattab entered Jerusalem in 637, the city surrendered peacefully rather than face a prolonged siege. Umar is remembered for guaranteeing the safety of the city's churches and Christian residents, reportedly declining to pray inside the Church of the Holy Sepulchre so that it would not later be converted into a mosque. This agreement, later known as the Covenant of Umar, set an early precedent for how religious communities would coexist under Islamic rule. Jerusalem remained a shared, sacred city for Muslims, Christians, and Jews for centuries afterward.",
+    "settings": [
+      "desert",
+      "city",
+      "night"
+    ]
+  }
+]
